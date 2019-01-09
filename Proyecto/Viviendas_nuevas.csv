@@ -1,0 +1,148 @@
+Barrio;Zona;Tipo vivienda;Direcci�n;N�mero de piso;N�mero habitaciones;N�mero ba�os;Ascensor (si/no);Precio;Superficie;Garaje (si/no);Precio garaje;Fecha_recogida;Fecha_ultima_actualizacion;Diferencia
+Actur;Ranillas;Piso;Rosa Chacel, 16;1� exterior;3;1;si;164.900;111;si (opcional);19000;03/11/2016;27/07/2016;99
+Actur;Ranillas;Piso;Emilia Pardo Baz�n, 23;5� exterior;3;2;si;163.500;82;no;-1;03/11/2016;20/11/2016;17
+Actur;Ranillas;Piso;Julio Cort�zar;3� exterior;3;1;si;138.000;100;si;0;03/11/2016;01/09/2016;63
+Actur;Ranillas;Piso;sin direcci�n;1� exterior;4;2;si;183.000;95;si;0;03/11/2016;21/11/2016;18
+Actur;Ranillas;Piso;sin direcci�n;6� exterior;3;2;si;230.000;120;si;0;03/11/2016;17/11/2016;14
+Actur;Ranillas;Piso;Mar�a Zayas Sotomayor;1� exterior;3;1;si;142.000;85;no;-1;03/11/2016;22/11/2016;19
+Actur;Ranillas;Piso;sin direcci�n;6� exterior;4;2;si;230.000;95;si;0;03/11/2016;18/07/2016;108
+Actur;Ranillas;Piso;Mariana Pineda;1� exterior;3;2;si;208.000;111;si;0;03/11/2016;14/10/2016;20
+Actur;Ranillas;Piso;sin direcci�n;5� exterior;3;1;si;125.000;70;no;-1;03/11/2016;21/11/2016;18
+Actur;Ranillas;Piso;Margarita Nelken;4� exterior;4;2;si;252.000;115;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Gertrudis G�mez de Avellaneda, 57;1� exterior;3;2;si;258.000;115;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Duplex;Rosal�a de Castro, 6;8� exterior;3;3;si;448.800;202;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Atico;Jos� Atar�s, 16;5� exterior;3;2;si;298.900;239;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;8� exterior;3;2;si;145.000;84;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Margarita Xirg�;3� exterior;3;1;si;103.000;94;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Octavio Paz;3� exterior;4;2;si;179.000;100;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Rosal�a de Castro, 23;4� exterior;3;2;si;220.000;96;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Margarita Nelken;5� exterior;2;1;si;201.900;85;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Margarita Nelken;1� exterior;2;1;si;190.000;80;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Octavio Paz;3� exterior;4;2;si;180.000;110;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Francisco Ferrer, 7;1� exterior;3;1;si;114.000;70;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;2� exterior;4;2;si;200.062;123;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Mariana Pineda;6� exterior;3;1;si;161.500;76;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;2;si;170.000;86;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Octavio Paz, 8;3� exterior;4;1;si;180.000;100;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Margarita Xirg�;6� exterior;4;2;si;118.000;95;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Mar�a Espinosa;1� exterior;3;2;si;207.400;102;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Julio Cort�zar, 36;3� exterior;3;1;si;138.000;84;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Francisco Mart�nez Soria;3� exterior;2;2;si;186.500;73;si (opcional);14900;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Jos� Atar�s, 16;4� exterior;2;2;si;289.000;95;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;1;si;99.000;70;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Margarita Xirg�;1� exterior;3;1;si;81.000;70;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Margarita Xirg�, 20;1� exterior;4;2;si;77.000;85;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;1� exterior;2;1;no;71.680;65;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Margarita Xirg�, 36;2� exterior;2;1;si;66.500;62;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Francisco Ferrer;3� exterior;2;1;no;59.000;50;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Francisco Mart�nez Soria;1� exterior;2;2;si;201.400;65;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Francisco Ferrer;3� exterior;3;1;si;86.000;68;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;1� exterior;3;2;si;189.000;105;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;2;si;210.000;105;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;225.000;131;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;200.000;131;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;238.000;131;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;187.000;131;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;224.000;131;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;218.000;131;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;172.000;118;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;174.000;125;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;194.000;131;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;208.000;131;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;213.000;118;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;2;si;170.000;101;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;2;si;178.000;102;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;200.000;123;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;194.000;123;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;2;si;171.000;105;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;2;si;213.000;105;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;179.000;118;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;180.000;125;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;2;si;150.000;101;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;2;si;146.000;101;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;2;si;197.900;102;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;236.000;124;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;4;2;si;195.000;123;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;2;si;193.000;102;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Margarita Nelken, 11;4� exterior;2;1;si;190.000;72;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Mar�a Zayas Sotomayor, 4;2� exterior;4;2;si;260.000;173;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Margarita Xirg�;3� exterior;3;1;si;100.000;80;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Francisco Mart�nez Soria, 4;2� exterior;2;2;si;209.100;93;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;8� exterior;2;1;si;141.680;60;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Emilia Pardo Baz�n, 17;7� exterior;2;1;si;170.000;70;si;0;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;sin direcci�n;3� exterior;3;1;si;82.200;73;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Margarita Xirg�, 2 ;1� exterior;2;1;si;110.000;65;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;Francisco Ferrer, 12;3� exterior;3;1;si;115.000;70;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Duplex;GertrudisG�mez de Avellaneda, 37 3� F;3� exterior;4;2;si;300.000;90;no;-1;03/11/2016;;03/11/2016
+Actur;Ranillas;Piso;M�gica La�nez, 27;2� exterior;4;2;no;130.000;108;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Jos� Luis Barao, 21;3� exterior;4;2;si;262.000;146;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Cineasta Adolfo Aznar, 21;6� exterior;4;2;si;145.000;87;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Pablo Ruiz Picasso;8� exterior;2;1;si;179.000;120;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Pablo Ruiz Picasso;1� exterior;2;1;si;139.500;80;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Cineasta Adolfo Aznar, 7 - 9;5� exterior;2;1;si;195.000;64;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Cineasta Adolfo Aznar, 17;4� exterior;4;2;si;257.000;111;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Cineasta Adolfo Aznar;10� exterior;2;1;si;129.500;76;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Jos� Luis Barao;5� exterior;3;2;si;150.000;92;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Julio Garc�a Condoy;1� exterior;3;2;si;210.000;102;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Cineasta Adolfo Aznar;6� exterior;3;2;si;154.000;78;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Pablo Iglesias;2� exterior;2;2;si;160.000;73;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Cineasta Carlos Saura;9� exterior;3;2;si;169.000;90;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Jos� Mar�a Beltr�n;7� exterior;4;2;si;218.000;103;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Cineasta Adolfo Aznar;6� exterior;4;2;si;145.000;77;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;sin direcci�n;6� exterior;4;2;si;145.000;80;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Edmundo d'Amicis;5� exterior;3;2;si;162.000;82;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Jos� Barobia Gonz�lez;2� exterior;3;2;si;174.500;82;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Cineasta Carlos Saura;2� exterior;2;1;si;159.000;70;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Pablo Ruiz Picasso;8� exterior;2;1;si;179.000;79;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Cineasta Adolfo Aznar;7� exterior;3;2;si;190.000;81;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;sin direcci�n;6� exterior;3;2;si;300.000;110;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Pablo Iglesias, 33 - 41;8� exterior;3;2;si;300.000;99;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Julio Garc�a Condoy;10� exterior;3;1;si;197.000;82;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Cineasta Adolfo Aznar, 21;6� exterior;5;2;si;140.000;80;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Atico;sin direcci�n;8� exterior;2;1;si;194.900;140;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;sin direcci�n;2� exterior;3;1;si;150.000;80;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;sin direcci�n;3� exterior;2;1;si;155.000;85;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Cineasta Adolfo Aznar;2� exterior;3;2;si;115.000;80;no;-1;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Pablo Ruiz Picasso, 18;6� exterior;2;1;si;175.000;68;si;0;03/11/2016;;03/11/2016
+Actur;Parque de los Cineastas;Piso;Pablo Iglesias, 27;1� exterior;4;1;si;180.000;90;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Gabriel Celaya, 11;3� exterior;4;2;si;225.000;108;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;sin direcci�n;8� exterior;4;2;si;191.000;90;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Flora Trist�n;6� exterior;3;2;si;190.000;122;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Jorge Guill�n, 29;6� exterior;2;1;si;158.000;66;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Mar�a Zambrano;8� exterior;5;3;si;230.000;150;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Alberto Duce, 14;1� exterior;2;1;si;215.000;70;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Le�n Felipe;6� exterior;4;2;si;199.000;148;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Jorge Guill�n;4� exterior;3;2;si;229.000;105;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Ildefonso Manuel Gil, 34;8� exterior;3;1;si;116.000;79;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Ildefonso Manuel Gil;3� exterior;3;1;si;153.000;80;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Poeta Rafael Alberti;5� exterior;3;1;si;155.000;80;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Ildefonso Manuel Gil, 32;6� exterior;3;1;si;147.600;80;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Atico;sin direcci�n;8� exterior;3;2;si;300.328;93;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Valle de Broto, 45;6� exterior;3;1;si;124.900;80;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Maria Montessori;1� exterior;3;2;si;148.000;85;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Poeta Jorge Manrique;8� exterior;3;1;si;185.000;90;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Poeta Rafael Alberti;5� exterior;3;1;si;155.000;75;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Ildefonso Manuel Gil;2� exterior;3;1;si;138.000;70;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Ildefonso Manuel Gil;9� exterior;3;2;si;147.600;80;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Ildefonso Manuel Gil;5� exterior;3;1;si;147.600;79;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Nicol�s Guill�n;4� exterior;3;1;si;155.000;82;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Valero Jul�an Ripol Urbano;9� exterior;3;1;si;105.000;90;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Poeta Rafael Alberti;5� exterior;3;1;si;155.000;70;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Mar�a Zambrano;1� exterior;2;1;si;154.000;80;si (opcional);20000;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Ildefonso Manuel Gil, 32;8� exterior;3;1;si;147.600;75;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;sin direcci�n;4� exterior;3;1;si;120.000;84;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Mar�a Zambrano, 8;12� exterior;3;2;si;135.000;102;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;sin direcci�n;9� exterior;3;2;si;113.000;80;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;sin direcci�n;1� exterior;4;2;si;210.000;119;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Ildefonso Manuel Gil;3� exterior;3;1;si;116.000;76;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Ildefonso Manuel Gil;3� exterior;3;1;si;116.000;79;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Valero Jul�an Ripol Urbano;4� exterior;3;1;si;100.000;85;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Poeta Rafael Alberti;5� exterior;3;1;si;155.000;75;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Ildefonso Manuel Gil;6� exterior;3;1;no;147.600;80;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Ildefonso Manuel Gil, 30;2� exterior;2;1;si;138.000;80;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Padre Marcey�n Mayayo, 11;6� exterior;4;1;si;110.000;86;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;sin direcci�n;1� exterior;4;2;si;246.698;105;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Poeta Jorge Manrique, 1;7� exterior;3;1;si;175.000;80;si;0;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;sin direcci�n;9� exterior;3;1;si;111.300;83;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Valero Jul�an Ripol Urbano, 9;8� exterior;3;1;si;110.000;75;no;-1;03/11/2016;;03/11/2016
+Actur;Grancasa;Piso;Nicol�s Guill�n, 8;8� exterior;5;2;si;195.000;105;si;0;03/11/2016;;03/11/2016
