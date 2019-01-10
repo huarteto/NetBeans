@@ -7,7 +7,7 @@ import java.util.GregorianCalendar;
  *
  * @author Guillermo
  * 
- * Constructor de coche, aún hay que poner las variables reales.
+ * Constructor de coche, aú/nn hay que poner las variables reales.
  * 
  */
 public class Coche implements Comparable<Coche>{
